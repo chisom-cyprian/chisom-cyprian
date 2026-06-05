@@ -1,4 +1,4 @@
-# Chisom Cyprian | Backend & AI Engineer
+# Chisom Cyprian | Backend Software Software Engineer | AI Systems
 
 - 🔭 I'm currently building an AI-powered document chat platform using RAG, LangChain, FastAPI, and ChromaDB
 - 🌱 I'm currently learning advanced ML Engineering fundamentals and vector database optimization
