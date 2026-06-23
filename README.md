@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Chisom Cyprian
+# CHISOM CYPRIAN 
 
 ### Software Engineering Student | Backend Developer | AI Systems Enthusiast
 
