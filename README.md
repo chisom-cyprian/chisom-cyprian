@@ -1,8 +1,12 @@
-# <div align="center">
+<div align="center">
 
-# Hi 👋, I'm Chisom Cyprian
+# Hi, I'm Chisom Cyprian
 
 ### Software Engineering Student | Backend Developer | AI Systems Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Backend+Developer;AI+Systems+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+</div>
 
 I'm passionate about building scalable backend systems, AI-powered applications, and cloud-native software. I'm constantly learning and working on projects that solve real-world problems.
 
