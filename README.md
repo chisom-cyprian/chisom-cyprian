@@ -1,6 +1,30 @@
-# Chisom Cyprian | Software Engineering Student | Backend & AI Systems
+# <div align="center">
 
-- 📫 Reach me at: chisomcypriannworie@gmail.com | https://www.linkedin.com/in/chisom-cyprian-nworie-18b54b3b1
+# Hi 👋, I'm Chisom Cyprian
+
+### Software Engineering Student | Backend Developer | AI Systems Enthusiast
+
+I'm passionate about building scalable backend systems, AI-powered applications, and cloud-native software. I'm constantly learning and working on projects that solve real-world problems.
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Software Engineering Student
+- 💻 Interested in Backend Development, AI Systems, and Cloud Computing
+- 🌱 Currently learning System Design, Docker, Kubernetes, and Machine Learning
+- 🎯 Goal: Build software that impacts millions of users
+
+---
+
+## 📫 Connect with Me
+
+- 📧 **Email:** chisomcypriannworie@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/chisom-cyprian-nworie-18b54b3b1
+
+---
   
   
 # Tech Stack:
