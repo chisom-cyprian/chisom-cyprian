@@ -14,12 +14,12 @@ I'm passionate about building scalable backend systems, AI-powered applications,
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Software Engineering Student
-- 💻 Interested in Backend Development, AI Systems, and Cloud Computing
-- 🌱 Currently learning System Design, Docker, Kubernetes, and Machine Learning
-- 🎯 Goal: Build software that impacts millions of users
+- Software Engineering Student
+- Interested in Backend Development, AI Systems, and Cloud Computing
+- Currently learning System Design, Docker, Kubernetes, and Machine Learning
+- Goal: Build software that impacts millions of users
 
 ---
 
