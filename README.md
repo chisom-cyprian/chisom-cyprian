@@ -1,6 +1,6 @@
 <div align="center">
 
-# CHISOM CYPRIAN 
+# CHISOM CYPRIAN NWORIE
 
 ### Software Engineering Student | Backend Developer | AI Systems Enthusiast
 
